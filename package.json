@@ -1,5 +1,5 @@
 {
-  "name": "my-snippets",
+  "name": "ci-travis-test",
   "version": "0.0.1",
   "description": "",
   "scripts": {
@@ -17,6 +17,7 @@
     "babel-cli": "6.16.0",
     "babel-core": "6.17.0",
     "babel-loader": "6.2.5",
+    "babel-preset-env": "^1.6.1",
     "babel-preset-latest": "6.16.0",
     "babel-register": "6.16.3",
     "chai": "3.5.0",
@@ -50,11 +51,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/antoniandre/my-snippets.git"
+    "url": "git://github.com/antoniandre/ci-travis-test.git"
   },
   "author": "",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/antoniandre/my-snippets/issues"
+    "url": "https://github.com/antoniandre/ci-travis-test/issues"
   }
 }
