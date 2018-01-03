@@ -23,6 +23,7 @@ app.listen(port, function(err)
 {
     if (err)
     {
+        /* eslint-disable no-console */
         console.log(err)
     }
     else
